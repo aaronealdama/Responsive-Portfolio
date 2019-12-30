@@ -1,3 +1,27 @@
-#carouselExampleCaptions {
-  margin: 0 auto;
+.footer {
+  box-shadow: 0 50vh 0 50vh #292b2c;
+  background-color: #292b2c;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  line-height: 40px;
+  margin: 30px;
+}
+
+.paragraph {
+  margin: 20px;
+}
+
+.carousel {
+  margin: 40px;
+}
+
+.input-group {
+  margin: 70px;
+}
+
+.header {
+  text-decoration: underline;
 }
