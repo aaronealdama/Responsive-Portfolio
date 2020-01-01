@@ -5,6 +5,14 @@
   text-align: center;
 }
 
+footer {
+  margin-top: 30px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
 .container {
   line-height: 50px;
   background: white;
@@ -19,7 +27,7 @@
 }
 
 .input-group {
-  margin: 90px;
+  margin: 70px;
 }
 
 .header {
@@ -32,4 +40,8 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+}
+
+.navbar {
+  margin-bottom: 30px;
 }
